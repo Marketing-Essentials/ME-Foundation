@@ -1,10 +1,7 @@
 # M.E. Foundation
 
-## A super stripped-down WordPress starter theme for developers. 
+## A super stripped-down WordPress starter theme for the Marketing Essentials, LLC developers. 
 
-![](https://studio.bio/images/plate_home_cssgrid.png)
-_Plate Home page with sidebar showing CSS Grid layout blocks.
-It's almost as if it is not even there._
 
 #### How to use M.E. Foundation?
 Download or clone into your `/wp-content/themes/` folder and activate the theme in the WordPress admin in `Appearance > Themes`. 
@@ -30,8 +27,8 @@ In short, no. Each version of M.E. Foundation should be viewed as a moment in ti
 **I tested it with Theme Check and there are errors. What should I do?**<br />
 [Theme Check](https://wordpress.org/plugins/theme-check/) is ideal if you are trying to get your theme validated for release on WordPress.org. That said, we use Theme Check and test before every GitHub release to see if we have any egregious errors in Plate. Mind you, Plate was created for our studio and not (necessarily) for general release. With that in mind, there are some things that will fail the check like not having `<php wp_link_pages(); ?>` which we don't ever use as well as having a CPT plugin template included. We're ok with those errors and as long as they don't bother you, you can safely ignore.
 
-### ⚡️ Other stuffs
-Updated by Jenna Schultz.
+### ⚡️ Other Stuff
+Maintained by Jenna Schultz.
 
 With help from Tyler Louth & Kyle Johnson.
 
